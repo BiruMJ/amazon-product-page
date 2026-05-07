@@ -38,7 +38,7 @@ body {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 3rem;
+    gap: 2rem;
 }
 
 .main-img {
@@ -107,7 +107,7 @@ footer {
     .product-container {
         max-width: 95%;
         margin: 0 auto;
-        gap: 1rem;
+        gap: 2.5rem;
     }
     .title {
         font-size: 2.5rem;
